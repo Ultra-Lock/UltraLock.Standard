@@ -38,8 +38,9 @@
 
 ### 资料
 
-[CnBlog:.Net Core 跨平台应用使用串口、串口通信 ，可能出现的问题、更简洁的实现方法](https://www.cnblogs.com/whuanle/p/10499498.html)
-[MSDN:教程：ASP.NET Core 入门](https://docs.microsoft.com/zh-cn/aspnet/core/getting-started/?view=aspnetcore-5.0&tabs=windows)
+[CnBlog:.Net Core 跨平台应用使用串口、串口通信 ，可能出现的问题、更简洁的实现方法](https://www.cnblogs.com/whuanle/p/10499498.html)  
+[MSDN:教程：ASP.NET Core 入门](https://docs.microsoft.com/zh-cn/aspnet/core/getting-started/?view=aspnetcore-5.0&tabs=windows)  
+[哔哩哔哩:ASP.NET Core 3.x 构建 RESTful API（已完结）](https://www.bilibili.com/video/BV1XJ411q7yy)
 
 ## UltraLock.Client.Web （HTML/vuejs）
 
